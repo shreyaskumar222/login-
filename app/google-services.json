@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602921183706",
+    "project_id": "login-69328",
+    "storage_bucket": "login-69328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602921183706:android:5ad32fe11323d56229f8e3",
+        "android_client_info": {
+          "package_name": "com.transposesolutions.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602921183706-ko6v10v3ecvubilkkd9t7tfkfoujrkh2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKr6CdC8rIQUJPqqVeQuzJ18p-qgwYS9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602921183706-ko6v10v3ecvubilkkd9t7tfkfoujrkh2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
